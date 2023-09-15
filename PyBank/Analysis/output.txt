@@ -1,0 +1,6 @@
+total months): 86
+total_profit: $22564198
+average change in profit: $-8311.11
+Greatest Increase in Profits: Aug-16 $1862002
+Greatest Decrease in Profits: Feb-14 $-1825558
+
